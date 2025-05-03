@@ -1,0 +1,11 @@
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.deps.json
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.AssemblyInfo.cs
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\refint\EventBus.Factory.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\ref\EventBus.Factory.dll

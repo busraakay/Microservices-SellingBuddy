@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "haGxnnScaog=",
+  "dgSpecHash": "rAi7ImfYRqo=",
   "success": true,
   "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\win11\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\win11\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\events\\baseeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\events\\baseeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\submanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\submanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\subscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\subscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE072B2-7F27-47EA-AC75-14709E25740D}|Solution Items{0DE072B2-7F27-47EA-AC75-14709E25740D}|C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\ServiceUrls.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DE072B2-7F27-47EA-AC75-14709E25740D}|Solution Items{0DE072B2-7F27-47EA-AC75-14709E25740D}|solutionrelative:ServiceUrls.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4041BFE3-7F8D-4C5D-AB67-AAB492B02600}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\sellingbuddy\\src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4041BFE3-7F8D-4C5D-AB67-AAB492B02600}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:36:47.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventBusConfig.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:29:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryEventBusSubscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwH0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:55:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventBus.Base",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T10:54:27.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventBusSubscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAjwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:03:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubscriptionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:54:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:39:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IIntegrationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:35:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:24:35.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:20:37.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceUrls.txt",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\ServiceUrls.txt",
+              "RelativeDocumentMoniker": "ServiceUrls.txt",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\ServiceUrls.txt",
+              "RelativeToolTip": "ServiceUrls.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-19T18:46:49.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.deps.json
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\refint\EventBus.AzureServiceBus.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
