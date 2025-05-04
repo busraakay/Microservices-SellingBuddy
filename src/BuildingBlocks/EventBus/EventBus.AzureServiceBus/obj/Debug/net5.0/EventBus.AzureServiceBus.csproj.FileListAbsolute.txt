@@ -9,3 +9,7 @@ C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\Ev
 C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\refint\EventBus.AzureServiceBus.dll
 C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.pdb
 C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.AssemblyReference.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.4B749085.Up2Date
