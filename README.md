@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Microservices Architecture with .NET 8
 
-This repository contains a **real-world, cloud-native e-commerce microservices application** built with modern technologies and architecture patterns using **.NET 8**.
+This repository contains a **real-world, cloud-native e-commerce microservices application** built with modern technologies and architecture patterns using **.NET **.
 
 The solution demonstrates scalable microservices, asynchronous messaging, distributed caching, and clean API design — ready for local development or cloud deployment.
 
