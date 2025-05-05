@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Microservices Architecture with .NET 8
+# 🛒 E-Commerce Microservices Architecture with .NET 
 
 This repository contains a **real-world, cloud-native e-commerce microservices application** built with modern technologies and architecture patterns using **.NET**.
 
@@ -8,7 +8,7 @@ The solution demonstrates scalable microservices, asynchronous messaging, distri
 
 ## 🚀 Tech Stack
 
-- **.NET 8 & ASP.NET Core WebAPI**
+- **.NET & ASP.NET Core WebAPI**
 - **Entity Framework Core + SQL Server** – Relational data store
 - **MongoDB** – NoSQL data store (e.g., for product catalog)
 - **RabbitMQ** & **Azure Service Bus** – Switchable event bus infrastructure
