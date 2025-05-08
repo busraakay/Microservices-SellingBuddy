@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igCQ1/bEhSE=",
+  "dgSpecHash": "L0qSwTaAio8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

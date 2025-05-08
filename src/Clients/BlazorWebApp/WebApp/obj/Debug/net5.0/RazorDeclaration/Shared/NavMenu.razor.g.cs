@@ -13,61 +13,61 @@ namespace WebApp.Shared
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 1 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using System.Net.Http
 
 #nullable disable
     ;
 #nullable restore
-#line 2 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 2 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using System.Net.Http.Json
 
 #nullable disable
     ;
 #nullable restore
-#line 3 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 3 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms
 
 #nullable disable
     ;
 #nullable restore
-#line 4 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 4 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing
 
 #nullable disable
     ;
 #nullable restore
-#line 5 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 5 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web
 
 #nullable disable
     ;
 #nullable restore
-#line 6 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 6 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization
 
 #nullable disable
     ;
 #nullable restore
-#line 7 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 7 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http
 
 #nullable disable
     ;
 #nullable restore
-#line 8 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 8 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using Microsoft.JSInterop
 
 #nullable disable
     ;
 #nullable restore
-#line 9 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 9 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using WebApp
 
 #nullable disable
     ;
 #nullable restore
-#line 10 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
+#line 10 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\_Imports.razor"
 using WebApp.Shared
 
 #line default
@@ -84,7 +84,7 @@ using WebApp.Shared
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\win11\OneDrive\Belgeler\MicroService\SellingBuddy\src\Clients\BlazorWebApp\WebApp\Shared\NavMenu.razor"
+#line 28 "C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Clients\BlazorWebApp\WebApp\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

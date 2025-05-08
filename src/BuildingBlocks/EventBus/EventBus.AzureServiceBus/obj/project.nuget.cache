@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qwa5f3VUlmk=",
+  "dgSpecHash": "zkumWOfwXWM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.azure.amqp\\2.4.11\\microsoft.azure.amqp.2.4.11.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.azure.servicebus\\5.2.0\\microsoft.azure.servicebus.5.2.0.nupkg.sha512",

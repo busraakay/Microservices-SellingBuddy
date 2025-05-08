@@ -1416,11 +1416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dRhSGsiV3yg=",
+  "dgSpecHash": "eOP17TpUHLw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
