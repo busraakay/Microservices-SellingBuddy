@@ -2839,7 +2839,7 @@
       },
       "EventBus.AzureServiceBus/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "EventBus.Base": "1.0.0",
           "Microsoft.Azure.ServiceBus": "5.2.0",
@@ -2854,7 +2854,7 @@
       },
       "EventBus.Base/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.4",
           "Newtonsoft.Json": "13.0.3"
@@ -2868,7 +2868,7 @@
       },
       "EventBus.Factory/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "EventBus.AzureServiceBus": "1.0.0",
           "EventBus.Base": "1.0.0",
@@ -2883,7 +2883,7 @@
       },
       "EventBus.RabbitMQ/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "EventBus.Base": "1.0.0",
           "Polly": "8.5.2",

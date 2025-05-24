@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace CatalogService.Api.Core.Application.ViewModels
+﻿namespace CatalogService.Api.Core.Application.ViewModels
 {
     public class PaginatedItemsViewModel<TEntity> where TEntity : class
     {
