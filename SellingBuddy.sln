@@ -70,7 +70,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Api", "src\Services\OrderService\OrderService.Api\OrderService.Api.csproj", "{417147D2-AEA1-4F05-BBFA-0C678BB137BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Api", "src\Services\PaymentService\PaymentService.Api\PaymentService.Api.csproj", "{13797DBC-66F6-4677-88CC-A0FB7B4C4C67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Api", "src\Services\PaymentService\PaymentService.Api\PaymentService.Api.csproj", "{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -138,10 +138,10 @@ Global
 		{417147D2-AEA1-4F05-BBFA-0C678BB137BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417147D2-AEA1-4F05-BBFA-0C678BB137BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417147D2-AEA1-4F05-BBFA-0C678BB137BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{13797DBC-66F6-4677-88CC-A0FB7B4C4C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13797DBC-66F6-4677-88CC-A0FB7B4C4C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13797DBC-66F6-4677-88CC-A0FB7B4C4C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13797DBC-66F6-4677-88CC-A0FB7B4C4C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +176,6 @@ Global
 		{676BC91D-AEE5-4510-A756-E4ED099FB8C5} = {648631BA-F552-4B28-94A0-F17430A74077}
 		{3A95EF9B-1B3A-4243-AE65-A26B2B981147} = {648631BA-F552-4B28-94A0-F17430A74077}
 		{417147D2-AEA1-4F05-BBFA-0C678BB137BD} = {648631BA-F552-4B28-94A0-F17430A74077}
-		{13797DBC-66F6-4677-88CC-A0FB7B4C4C67} = {477728B3-D523-4C45-8179-2F519C579604}
+		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1} = {477728B3-D523-4C45-8179-2F519C579604}
 	EndGlobalSection
 EndGlobal

@@ -3,175 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\extensions\\hostextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\extensions\\hostextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\context\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\context\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\extensions\\dbcontextregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\extensions\\dbcontextregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B05D515-F161-4B52-8E24-08F6E4596382}|tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\tests\\buildingblocks\\eventbus.unittest\\eventbustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B05D515-F161-4B52-8E24-08F6E4596382}|tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj|solutionrelative:tests\\buildingblocks\\eventbus.unittest\\eventbustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B05D515-F161-4B52-8E24-08F6E4596382}|tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\tests\\buildingblocks\\eventbus.unittest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B05D515-F161-4B52-8E24-08F6E4596382}|tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj|solutionrelative:tests\\buildingblocks\\eventbus.unittest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbus.rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbus.rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B05D515-F161-4B52-8E24-08F6E4596382}|tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\tests\\buildingblocks\\eventbus.unittest\\eventbus.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6B05D515-F161-4B52-8E24-08F6E4596382}|tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj|solutionrelative:tests\\buildingblocks\\eventbus.unittest\\eventbus.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6106EAD5-AED1-41CA-8FDA-1C7C72C7D3BF}|src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.factory\\eventbus.factory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6106EAD5-AED1-41CA-8FDA-1C7C72C7D3BF}|src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.factory\\eventbus.factory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E65E69F5-D60D-4C8C-82D7-9CA46C495079}|src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.azureservicebus\\eventbus.azureservicebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E65E69F5-D60D-4C8C-82D7-9CA46C495079}|src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.azureservicebus\\eventbus.azureservicebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\rabbitmqpersistentconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\rabbitmqpersistentconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6106EAD5-AED1-41CA-8FDA-1C7C72C7D3BF}|src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.factory\\eventbusfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6106EAD5-AED1-41CA-8FDA-1C7C72C7D3BF}|src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.factory\\eventbusfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65E69F5-D60D-4C8C-82D7-9CA46C495079}|src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.azureservicebus\\eventbusservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E65E69F5-D60D-4C8C-82D7-9CA46C495079}|src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.azureservicebus\\eventbusservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\subscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\subscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentsuccessintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentsuccessintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\controllers\\picturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\controllers\\picturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentfailedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentfailedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\catalogsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\catalogsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\core\\domain\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\core\\domain\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\setup\\seedfiles\\catalogtypes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\setup\\seedfiles\\catalogtypes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\setup\\seedfiles\\catalogitems.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\setup\\seedfiles\\catalogitems.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\setup\\seedfiles\\brandstextfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\setup\\seedfiles\\brandstextfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\context\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\context\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\context\\catalogcontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\context\\catalogcontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\infrastructure\\entityconfigurations\\catalogbrandentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\infrastructure\\entityconfigurations\\catalogbrandentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{417147D2-AEA1-4F05-BBFA-0C678BB137BD}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\orderservice\\orderservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417147D2-AEA1-4F05-BBFA-0C678BB137BD}|src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj|solutionrelative:src\\services\\orderservice\\orderservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CA6811-DFB0-4D2A-BD75-8A1691F9F08F}|src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\apigateways\\webapigateway\\web.apigateway\\web.apigateway\\web.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{27CA6811-DFB0-4D2A-BD75-8A1691F9F08F}|src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj|solutionrelative:src\\apigateways\\webapigateway\\web.apigateway\\web.apigateway\\web.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF98DBBF-E817-4E9B-8AE8-3F3D8EA26917}|src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\clients\\blazorwebapp\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DF98DBBF-E817-4E9B-8AE8-3F3D8EA26917}|src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj|solutionrelative:src\\clients\\blazorwebapp\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\core\\application\\viewmodels\\paginateditemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\core\\application\\viewmodels\\paginateditemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\core\\domain\\catalogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\core\\domain\\catalogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\catalogservice\\catalogservice.api\\core\\domain\\catalogbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ABD61D1-D9B1-432D-8841-EC66C3C2BF77}|src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj|solutionrelative:src\\services\\catalogservice\\catalogservice.api\\core\\domain\\catalogbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A95EF9B-1B3A-4243-AE65-A26B2B981147}|src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\orderservice\\orderservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A95EF9B-1B3A-4243-AE65-A26B2B981147}|src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|solutionrelative:src\\services\\orderservice\\orderservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{676BC91D-AEE5-4510-A756-E4ED099FB8C5}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\orderservice\\orderservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{676BC91D-AEE5-4510-A756-E4ED099FB8C5}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B463FF-A556-40E3-B786-3DFC2C25F432}|src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\orderservice\\orderservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B463FF-A556-40E3-B786-3DFC2C25F432}|src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:src\\services\\orderservice\\orderservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -181,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,560 +63,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\tests\\BuildingBlocks\\EventBus.UnitTest\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "tests\\BuildingBlocks\\EventBus.UnitTest\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\tests\\BuildingBlocks\\EventBus.UnitTest\\MSTestSettings.cs",
-              "RelativeToolTip": "tests\\BuildingBlocks\\EventBus.UnitTest\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EventBusConfig.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:11:52.124Z",
+              "WhenOpened": "2025-05-31T12:25:51.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQPersistentConnection.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAASwDcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:18:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventBusRabbitMQ.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs*",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAnwFkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:10:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventBusFactory.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:10:15.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:56:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T10:54:54.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPaymentFailedIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:49:47.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCEAAAAUAAAAAAAAAA==",
+              "Title": "OrderStartedIntegrationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:25:37.577Z",
+              "WhenOpened": "2025-05-31T10:44:07.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Startup.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Startup.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Startup.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:25:22.246Z",
+              "WhenOpened": "2025-05-31T12:51:14.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EventBus.RabbitMQ",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T15:05:04.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAFAHAAAAAAAAAIAwwGAHAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-25T15:06:40.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-25T14:01:45.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbContextRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\DbContextRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\DbContextRegistration.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\DbContextRegistration.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\DbContextRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA8AAABGAAAAAAAAAA==",
+              "Title": "OrderPaymentSuccessIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:00:20.687Z",
+              "WhenOpened": "2025-05-31T10:49:33.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "EventBus.Base",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T15:06:31.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CatalogContextSeed.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextSeed.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextSeed.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextSeed.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextSeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAB4AAAAAAAAAA==",
+              "Title": "OrderStartedIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:49:42.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HostExtension.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\HostExtension.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\HostExtension.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\HostExtension.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Extensions\\HostExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:59:22.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventBusTests.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\tests\\BuildingBlocks\\EventBus.UnitTest\\EventBusTests.cs",
-              "RelativeDocumentMoniker": "tests\\BuildingBlocks\\EventBus.UnitTest\\EventBusTests.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\tests\\BuildingBlocks\\EventBus.UnitTest\\EventBusTests.cs",
-              "RelativeToolTip": "tests\\BuildingBlocks\\EventBus.UnitTest\\EventBusTests.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:11:55.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EventBus.UnitTest",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
-              "RelativeDocumentMoniker": "tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
-              "RelativeToolTip": "tests\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T15:06:11.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EventBus.Factory",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T15:05:59.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EventBus.AzureServiceBus",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T15:05:32.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EventBusRabbitMQ.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:05:06.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EventBusFactory.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:05:00.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EventBusServiceBus.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:04:40.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IIntegrationEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:04:32.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IEventBusSubscriptionManager.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:04:28.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IEventBus.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:04:25.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SubscriptionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubscriptionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:04:18.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EventBusConfig.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:04:13.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PictureController.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\PictureController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\PictureController.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\PictureController.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\PictureController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:39:15.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\CatalogController.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Controllers\\CatalogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:38:12.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CatalogSettings.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\CatalogSettings.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\CatalogSettings.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\CatalogSettings.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\CatalogSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:34:45.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CatalogTypes.txt",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogTypes.txt",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogTypes.txt",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogTypes.txt",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogTypes.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-25T13:46:37.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CatalogItems.txt",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogItems.txt",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogItems.txt",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogItems.txt",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\CatalogItems.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-25T13:45:54.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BrandsTextFile.txt",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\BrandsTextFile.txt",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\BrandsTextFile.txt",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\BrandsTextFile.txt",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Setup\\SeedFiles\\BrandsTextFile.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-25T13:44:59.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CatalogItem.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogItem.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogItem.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogItem.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:41:50.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CatalogBrandEntityTypeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\EntityConfigurations\\CatalogBrandEntityTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\EntityConfigurations\\CatalogBrandEntityTypeConfiguration.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\EntityConfigurations\\CatalogBrandEntityTypeConfiguration.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\EntityConfigurations\\CatalogBrandEntityTypeConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:33:41.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CatalogContext.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContext.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContext.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContext.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:44:43.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CatalogContextDesignFactory.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextDesignFactory.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextDesignFactory.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextDesignFactory.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Infrastructure\\Context\\CatalogContextDesignFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:45:00.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Api\\Startup.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Api\\Startup.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Api\\Startup.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Api\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:26:25.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "NotificationService",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
-              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T13:26:01.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Web.ApiGateway.csproj",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
-              "RelativeDocumentMoniker": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
-              "RelativeToolTip": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-24T01:02:55.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:59:02.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:56:35.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:59:39.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T01:00:32.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "WebApp.csproj",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
-              "RelativeDocumentMoniker": "src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
-              "RelativeToolTip": "src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-24T00:49:59.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "PaginatedItemsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Application\\ViewModels\\PaginatedItemsViewModel.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Application\\ViewModels\\PaginatedItemsViewModel.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Application\\ViewModels\\PaginatedItemsViewModel.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Application\\ViewModels\\PaginatedItemsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:43:17.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CatalogType.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogType.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogType.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogType.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:42:23.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CatalogBrand.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogBrand.cs",
-              "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogBrand.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogBrand.cs",
-              "RelativeToolTip": "src\\Services\\CatalogService\\CatalogService.Api\\Core\\Domain\\CatalogBrand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T00:41:25.809Z",
+              "WhenOpened": "2025-05-31T10:40:31.955Z",
               "EditorCaption": ""
             }
           ]
