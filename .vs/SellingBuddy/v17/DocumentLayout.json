@@ -7,44 +7,44 @@
       "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\rabbitmqpersistentconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\rabbitmqpersistentconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\submanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\submanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6106EAD5-AED1-41CA-8FDA-1C7C72C7D3BF}|src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.factory\\eventbusfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6106EAD5-AED1-41CA-8FDA-1C7C72C7D3BF}|src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.factory\\eventbusfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A77121-676A-47BF-8DB3-83D8819BE59A}|src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.rabbitmq\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\eventhandlers\\orderpaymentfailedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\eventhandlers\\orderpaymentfailedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentsuccessintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentsuccessintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\eventhandlers\\orderpaymentsuccessintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\eventhandlers\\orderpaymentsuccessintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentfailedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderpaymentfailedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\events\\orderpaymentfailedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\events\\orderpaymentfailedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\events\\orderstartedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\events\\orderpaymentsuccessintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26427B02-114A-4880-B4C7-E490D33611CA}|src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\notificationservice\\integrationevents\\events\\orderpaymentsuccessintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\paymentservice\\paymentservice.api\\integrationevents\\eventhandlers\\orderstartedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:src\\services\\paymentservice\\paymentservice.api\\integrationevents\\eventhandlers\\orderstartedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,76 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventBusConfig.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:25:51.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RabbitMQPersistentConnection.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\RabbitMQPersistentConnection.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAASwDcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:18:06.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventBusRabbitMQ.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAnwE0AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:10:55.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventBusFactory.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBusFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAvwA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:10:15.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T10:56:42.267Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,72 +70,137 @@
               "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\appsettings.json*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-31T10:54:54.377Z",
+              "WhenOpened": "2025-06-01T12:42:10.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderPaymentFailedIntegrationEvent.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
-              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T10:49:47.192Z",
+              "WhenOpened": "2025-06-01T11:47:38.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "InMemoryEventBusSubscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:40:47.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "OrderStartedIntegrationEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
               "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
               "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
               "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEventHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T10:44:07.063Z",
+              "WhenOpened": "2025-06-01T11:23:26.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
-              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "OrderPaymentSuccessIntegrationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentSuccessIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentSuccessIntegrationEventHandler.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentSuccessIntegrationEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentSuccessIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T12:51:14.007Z",
+              "WhenOpened": "2025-06-01T11:07:09.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderPaymentFailedIntegrationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentFailedIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentFailedIntegrationEventHandler.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentFailedIntegrationEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\EventHandlers\\OrderPaymentFailedIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:59:37.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "OrderPaymentSuccessIntegrationEvent.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
-              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Title": "OrderPaymentFailedIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentFailedIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T10:49:33.146Z",
+              "WhenOpened": "2025-06-01T10:58:08.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPaymentSuccessIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\IntegrationEvents\\Events\\OrderPaymentSuccessIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:57:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:42:14.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventBusRabbitMQ.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBusRabbitMQ.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAwwKoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:23:26.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "OrderStartedIntegrationEvent.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
-              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
-              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\Events\\OrderStartedIntegrationEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Title": "OrderStartedIntegrationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\EventHandlers\\OrderStartedIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\EventHandlers\\OrderStartedIntegrationEventHandler.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\EventHandlers\\OrderStartedIntegrationEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\IntegrationEvents\\EventHandlers\\OrderStartedIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T10:40:31.955Z",
+              "WhenOpened": "2025-06-01T11:14:57.543Z",
               "EditorCaption": ""
             }
           ]

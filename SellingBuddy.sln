@@ -60,8 +60,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketService.Api", "src\Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityService.Api", "src\Services\IdentityService\IdentityService.Api\IdentityService.Api.csproj", "{F3A8E683-435F-43AB-B3D6-86BC1AA9B72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService", "src\Services\NotificationService\NotificationService\NotificationService.csproj", "{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Domain", "src\Services\OrderService\OrderService.Domain\OrderService.Domain.csproj", "{94B463FF-A556-40E3-B786-3DFC2C25F432}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Application", "src\Services\OrderService\OrderService.Application\OrderService.Application.csproj", "{676BC91D-AEE5-4510-A756-E4ED099FB8C5}"
@@ -71,6 +69,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Api", "src\Services\OrderService\OrderService.Api\OrderService.Api.csproj", "{417147D2-AEA1-4F05-BBFA-0C678BB137BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Api", "src\Services\PaymentService\PaymentService.Api\PaymentService.Api.csproj", "{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService", "src\Services\NotificationService\NotificationService\NotificationService\NotificationService.csproj", "{26427B02-114A-4880-B4C7-E490D33611CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -118,10 +118,6 @@ Global
 		{F3A8E683-435F-43AB-B3D6-86BC1AA9B72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3A8E683-435F-43AB-B3D6-86BC1AA9B72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3A8E683-435F-43AB-B3D6-86BC1AA9B72E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12B430C7-EF00-4FDA-A3F7-1C74169D6D35}.Release|Any CPU.Build.0 = Release|Any CPU
 		{94B463FF-A556-40E3-B786-3DFC2C25F432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{94B463FF-A556-40E3-B786-3DFC2C25F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94B463FF-A556-40E3-B786-3DFC2C25F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -142,6 +138,10 @@ Global
 		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26427B02-114A-4880-B4C7-E490D33611CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26427B02-114A-4880-B4C7-E490D33611CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26427B02-114A-4880-B4C7-E490D33611CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26427B02-114A-4880-B4C7-E490D33611CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,11 +171,11 @@ Global
 		{DF98DBBF-E817-4E9B-8AE8-3F3D8EA26917} = {1188023E-1242-43A8-A792-0EFC88E16C0F}
 		{4D2E4623-7CE4-418C-8F77-F7B3B84355B7} = {4103046A-A3A2-4E91-A094-C12A1FA92188}
 		{F3A8E683-435F-43AB-B3D6-86BC1AA9B72E} = {A1CC1194-561D-4712-AF97-AA30F2CA2E9A}
-		{12B430C7-EF00-4FDA-A3F7-1C74169D6D35} = {63C2BECA-81C6-44A4-917E-422F0277E85F}
 		{94B463FF-A556-40E3-B786-3DFC2C25F432} = {648631BA-F552-4B28-94A0-F17430A74077}
 		{676BC91D-AEE5-4510-A756-E4ED099FB8C5} = {648631BA-F552-4B28-94A0-F17430A74077}
 		{3A95EF9B-1B3A-4243-AE65-A26B2B981147} = {648631BA-F552-4B28-94A0-F17430A74077}
 		{417147D2-AEA1-4F05-BBFA-0C678BB137BD} = {648631BA-F552-4B28-94A0-F17430A74077}
 		{C81DEDFB-FFE6-4FAA-80AE-54E83D0222B1} = {477728B3-D523-4C45-8179-2F519C579604}
+		{26427B02-114A-4880-B4C7-E490D33611CA} = {63C2BECA-81C6-44A4-917E-422F0277E85F}
 	EndGlobalSection
 EndGlobal

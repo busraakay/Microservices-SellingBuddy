@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj",
+        "Action": "Start",
+        "DebugTarget": "NotificationService"
+      }
+    ]
+  }
+]
