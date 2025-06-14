@@ -3,14 +3,19 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "Path": "src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
         "Action": "Start",
-        "DebugTarget": "IIS Express"
+        "DebugTarget": "IdentityService.Api"
       },
       {
-        "Path": "src\\Services\\NotificationService\\NotificationService\\NotificationService\\NotificationService.csproj",
+        "Path": "src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
         "Action": "Start",
-        "DebugTarget": "NotificationService"
+        "DebugTarget": "CatalogService.Api"
+      },
+      {
+        "Path": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
       }
     ]
   }

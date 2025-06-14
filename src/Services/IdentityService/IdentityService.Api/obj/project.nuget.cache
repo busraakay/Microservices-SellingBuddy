@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "whPA3e6Gz0c=",
+  "dgSpecHash": "AUw3Up0pbKk=",
   "success": true,
   "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\win11\\.nuget\\packages\\consul\\1.7.14.7\\consul.1.7.14.7.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\win11\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.11.0\\microsoft.identitymodel.abstractions.8.11.0.nupkg.sha512",
@@ -13,6 +15,7 @@
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.identitymodel.logging\\8.11.0\\microsoft.identitymodel.logging.8.11.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.11.0\\microsoft.identitymodel.tokens.8.11.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\win11\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

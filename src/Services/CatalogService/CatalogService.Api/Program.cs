@@ -11,15 +11,22 @@ var builder = WebApplication.CreateBuilder(new WebApplicationOptions
     EnvironmentName = Environments.Development // -> Staging -> Production
 });
 
+builder.WebHost.UseUrls("http://localhost:5004");
+
 // Add services to the container.
 
 builder.Services.ConfigureDbContext(builder.Configuration);
 builder.Services.Configure<CatalogSettings>(builder.Configuration.GetSection(nameof(CatalogSettings)));
 
+builder.Services.ConfigureConsul(builder.Configuration);
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
+
 
 var app = builder.Build();
 
@@ -55,5 +62,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.RegisterWithConsul(app.Lifetime);
 
 app.Run();

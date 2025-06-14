@@ -8,6 +8,7 @@ C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\CatalogService.Api.pdb
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Consul.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -25,6 +26,7 @@ C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Polly.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Polly.Core.dll
 C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\CatalogService\CatalogService.Api\bin\Debug\net8.0\Serilog.dll
