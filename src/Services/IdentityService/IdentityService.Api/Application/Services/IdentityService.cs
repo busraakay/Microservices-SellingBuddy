@@ -18,7 +18,7 @@ namespace IdentityService.Api.Application.Services
                 new Claim(ClaimTypes.Name, "Busra Akay"),
             };
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("TechBuddySecretKeyShouldBeLong!!!"));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("TechBuddySecretKeyShouldBeLongBusra"));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
             var expiry = DateTime.Now.AddDays(10);
 

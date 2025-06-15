@@ -1,0 +1,7 @@
+	consul agent -dev -node=localhost
+
+bu þekilde consulu çalýþtýr.
+
+
+docker run -d --name redis-insight -p 8001:5540 redislabs/redisinsight
+redisinsight çalýþtýrmak için.

@@ -8,12 +8,7 @@
         "DebugTarget": "IdentityService.Api"
       },
       {
-        "Path": "src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
-        "Action": "Start",
-        "DebugTarget": "CatalogService.Api"
-      },
-      {
-        "Path": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "Path": "src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
         "Action": "Start",
         "DebugTarget": "http"
       }
