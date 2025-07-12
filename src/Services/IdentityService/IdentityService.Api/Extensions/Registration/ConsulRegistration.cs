@@ -1,6 +1,5 @@
 ﻿using Consul;
 using Microsoft.AspNetCore.Hosting.Server.Features;
-using Microsoft.AspNetCore.Http.Features;
 
 namespace IdentityService.Api.Extensions.Registration
 {

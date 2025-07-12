@@ -115,6 +115,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseRouting(); // <-- EKLENDÝ
+
+
 app.UseAuthentication();
 app.UseAuthorization();
 
