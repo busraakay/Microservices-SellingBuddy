@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\extensions\\redisregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\extensions\\redisregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EEB2A9D-BB2A-4046-950A-02AAEE58EA49}|src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\apigateways\\webapigateway\\web.apigateway\\configurations\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EEB2A9D-BB2A-4046-950A-02AAEE58EA49}|src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj|solutionrelative:src\\apigateways\\webapigateway\\web.apigateway\\configurations\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\core\\application\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\core\\application\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{273FCAEF-DE6B-4964-9F16-7510B2DE38B4}|src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.base\\submanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\extensions\\authregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\extensions\\authregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\extensions\\redisregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\extensions\\redisregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE072B2-7F27-47EA-AC75-14709E25740D}|Solution Items{0DE072B2-7F27-47EA-AC75-14709E25740D}|C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\notlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DE072B2-7F27-47EA-AC75-14709E25740D}|Solution Items{0DE072B2-7F27-47EA-AC75-14709E25740D}|solutionrelative:notlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B22187B8-2461-4C16-A586-6A802C8FF891}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\identityservice\\identityservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -59,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\core\\application\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|solutionrelative:src\\services\\basketservice\\basketservice.api\\core\\application\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DE072B2-7F27-47EA-AC75-14709E25740D}|Solution Items{0DE072B2-7F27-47EA-AC75-14709E25740D}|C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\notlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0DE072B2-7F27-47EA-AC75-14709E25740D}|Solution Items{0DE072B2-7F27-47EA-AC75-14709E25740D}|solutionrelative:notlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6C5A9FC-2D57-40AE-B9A8-208E0DF8F942}|src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj|c:\\users\\win11\\onedrive\\belgeler\\github\\microservices-sellingbuddy\\src\\services\\basketservice\\basketservice.api\\extensions\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,28 +146,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
-              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
-              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Configurations\\ocelot.json",
+              "RelativeDocumentMoniker": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Configurations\\ocelot.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Configurations\\ocelot.json*",
+              "RelativeToolTip": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Configurations\\ocelot.json*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T15:15:21.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:04:46.571Z",
+              "WhenOpened": "2025-07-12T17:05:09.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryEventBusSubscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIAzwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:20:50.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedisRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:56:57.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:51:25.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:50:58.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Title": "notlar.txt",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\notlar.txt",
+              "RelativeDocumentMoniker": "notlar.txt",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\notlar.txt",
+              "RelativeToolTip": "notlar.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-15T14:19:43.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T17:29:40.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:03:45.556Z",
+              "WhenOpened": "2025-06-15T13:20:29.568Z",
               "EditorCaption": ""
             },
             {
@@ -181,85 +274,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
-              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
-              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:05:09.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InMemoryEventBusSubscriptionManager.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Base\\SubManager\\InMemoryEventBusSubscriptionManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T14:20:50.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RedisRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Extensions\\RedisRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T11:56:57.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwEoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:51:25.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\appsettings.json*",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-15T11:50:58.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-12T17:29:40.09Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:05:45.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:03:45.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Models\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:04:46.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IIdentityService.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
               "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
@@ -267,12 +319,11 @@
               "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:06:00.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T17:06:00.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "IdentityService.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
               "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
@@ -280,12 +331,11 @@
               "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:06:21.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T17:06:21.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Program.cs",
@@ -293,12 +343,11 @@
               "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:07:44.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T17:07:44.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ConsulRegistration.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Extensions\\Registration\\ConsulRegistration.cs",
               "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Extensions\\Registration\\ConsulRegistration.cs",
@@ -306,12 +355,11 @@
               "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Extensions\\Registration\\ConsulRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAvwAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T17:02:54.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T17:02:54.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Startup.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Startup.cs",
@@ -319,25 +367,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T12:23:45.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T12:23:45.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Program.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAqwHgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T12:05:45.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Properties\\launchSettings.json",
@@ -345,38 +379,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-15T14:18:25.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T14:18:25.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IdentityService.cs",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
-              "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IdentityService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:20:29.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "notlar.txt",
-              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\notlar.txt",
-              "RelativeDocumentMoniker": "notlar.txt",
-              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\notlar.txt",
-              "RelativeToolTip": "notlar.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-15T14:19:43.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ConsulRegistration.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Extensions\\ConsulRegistration.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Extensions\\ConsulRegistration.cs",
@@ -384,12 +391,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Extensions\\ConsulRegistration.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T11:54:32.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T11:54:32.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CustomerBasket.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\CustomerBasket.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\CustomerBasket.cs",
@@ -397,12 +403,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\CustomerBasket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:15:38.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:15:38.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "OrderCreatedIntegrationEvent.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\IntegrationEvents\\Events\\OrderCreatedIntegrationEvent.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\IntegrationEvents\\Events\\OrderCreatedIntegrationEvent.cs",
@@ -410,12 +415,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\IntegrationEvents\\Events\\OrderCreatedIntegrationEvent.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:34:44.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:34:44.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "OrderCreatedIntegrationEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\IntegrationEvents\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\IntegrationEvents\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
@@ -428,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Infrastructure\\Repository\\BasketRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Infrastructure\\Repository\\BasketRepository.cs",
@@ -436,12 +440,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Infrastructure\\Repository\\BasketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:25:52.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:25:52.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IIdentityService.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IIdentityService.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IIdentityService.cs",
@@ -449,12 +452,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Services\\IIdentityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:19:56.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:19:56.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "BasketItem.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\BasketItem.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\BasketItem.cs",
@@ -462,12 +464,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\BasketItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:14:20.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:14:20.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ServiceUrls.txt",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\ServiceUrls.txt",
               "RelativeDocumentMoniker": "ServiceUrls.txt",
@@ -475,12 +476,11 @@
               "RelativeToolTip": "ServiceUrls.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-12T14:12:14.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T14:12:14.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\docker-compose-files\\redis\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose-files\\redis\\docker-compose.yml",
@@ -488,12 +488,11 @@
               "RelativeToolTip": "docker-compose-files\\redis\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-12T13:13:59.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T13:13:59.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Repository\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Repository\\IBasketRepository.cs",
@@ -501,12 +500,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Application\\Repository\\IBasketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:22:42.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:22:42.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BasketService.Api.http",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.http",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.http",
@@ -514,12 +512,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-15T14:18:35.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T14:18:35.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "BasketCheckout.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\BasketCheckout.cs",
               "RelativeDocumentMoniker": "src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\BasketCheckout.cs",
@@ -527,12 +524,11 @@
               "RelativeToolTip": "src\\Services\\BasketService\\BasketService.Api\\Core\\Domain\\Models\\BasketCheckout.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:15:09.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:15:09.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\Microservices-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\CatalogService\\CatalogService.Api\\Program.cs",

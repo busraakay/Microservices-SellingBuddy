@@ -8,6 +8,11 @@
         "DebugTarget": "IdentityService.Api"
       },
       {
+        "Path": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
         "Path": "src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
         "Action": "Start",
         "DebugTarget": "http"
