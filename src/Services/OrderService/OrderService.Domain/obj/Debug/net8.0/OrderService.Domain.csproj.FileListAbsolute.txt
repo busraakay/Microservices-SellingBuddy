@@ -1,0 +1,13 @@
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.deps.json
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.AssemblyReference.cache
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.sourcelink.json
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\win11\OneDrive\Belgeler\GitHub\Microservices-SellingBuddy\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll
