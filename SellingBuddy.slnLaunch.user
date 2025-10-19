@@ -5,7 +5,7 @@
       {
         "Path": "src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
         "Action": "Start",
-        "DebugTarget": "IdentityService.Api"
+        "DebugTarget": "http"
       },
       {
         "Path": "src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
@@ -13,7 +13,7 @@
         "DebugTarget": "http"
       },
       {
-        "Path": "src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+        "Path": "src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
         "Action": "Start",
         "DebugTarget": "http"
       }
